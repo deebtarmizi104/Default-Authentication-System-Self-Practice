@@ -1,12 +1,12 @@
 # LARAVEL-Default-Authentication-System-Self-Practice
 
-##Covering:
+## Covering:
 - Authentication for Database and Configuration
 - Authentication for Login and Register
 - Authentication for Password Resetting
 - Authentication for Password Change
 
-##Make use of:
+## Make use of:
 - LARAVEL 8.x
 - myphpadmin
 - xampp 8.0.8
