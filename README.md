@@ -14,6 +14,14 @@
 - bootstrap 5
 - composer 2.1.3
 
+## Laravel Mail Mailer SMTP Setup
+
+1. Google - smtp google configuration (depends on email server used)
+2. SMTP serever address = mail host
+3. Mail port = SMTP Port
+4. Mail encyption = port type
+5. Mail username & password = host email and password
+
 ## Footnotes
 * install composer
 * unlinked composer
@@ -28,3 +36,5 @@
 * create middleware - php artisan make:middleware middleware_name
 * listing route - php artican r:l
 * install laravel helpers - composer require laravel/helpers
+
+
