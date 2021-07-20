@@ -34,7 +34,7 @@
 * seed created data - php artisan db:seed
 * create controller - php artisan make:controller controller_name
 * create middleware - php artisan make:middleware middleware_name
-* listing route - php artican r:l
+* listing route - php artican r:l OR php artican route:list
 * install laravel helpers - composer require laravel/helpers
 
 
