@@ -33,6 +33,10 @@
 * migrate created table - php artisan migrate
 * seed created data - php artisan db:seed
 * create controller - php artisan make:controller controller_name
+
+
+![image](https://user-images.githubusercontent.com/55779668/126507473-d2eba74a-1a79-4e95-959d-181ba88c3dd5.png)
+
 * create middleware - php artisan make:middleware middleware_name
 * listing route - php artican r:l OR php artisan route:list
 * install laravel helpers - composer require laravel/helpers
